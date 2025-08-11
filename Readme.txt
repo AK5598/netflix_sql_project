@@ -41,6 +41,8 @@ This is a full end-to-end data analysis project using SQL, where I analyze Netfl
 4. How does genre preference vary across age groups?
 5. What is the average time gap between each customer's viewing sessions?
 6. What are the top 3 most watched titles in each country?
+7. Devices used to watch content accross countries
+8. What are the top 3 genres watched accross countries
 
 These questions use advanced SQL techniques like:
 - Window functions (ROW_NUMBER, LAG)
@@ -62,6 +64,7 @@ These questions use advanced SQL techniques like:
 ## 📌 Dataset Reference
 
 - Netflix Titles Dataset: [Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
+
 
 
 
