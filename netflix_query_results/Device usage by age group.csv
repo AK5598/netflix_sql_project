@@ -1,6 +1,21 @@
-device_used,19-30,31-45,46-60,"above 60"
-Laptop,31628,40085,39463,26416
-Mobile,31684,39484,39507,26297
-Desktop,31952,39658,39577,26277
-"Smart TV",31647,39642,39884,26535
-Tablet,31621,39899,39128,26235
+age_group,device_used,user_count
+31-45,Laptop,40085
+31-45,Mobile,39484
+31-45,Desktop,39658
+31-45,"Smart TV",39642
+31-45,Tablet,39899
+60+,Laptop,29145
+60+,Tablet,28909
+60+,Mobile,28883
+60+,Desktop,28949
+60+,"Smart TV",29255
+19-30,Desktop,31952
+19-30,"Smart TV",31647
+19-30,Laptop,31628
+19-30,Mobile,31684
+46-60,Mobile,39507
+46-60,Laptop,39463
+46-60,Desktop,39577
+46-60,Tablet,39128
+46-60,"Smart TV",39884
+19-30,Tablet,31621
