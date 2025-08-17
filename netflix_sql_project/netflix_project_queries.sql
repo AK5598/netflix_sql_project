@@ -120,10 +120,10 @@ group by genre_name, rating;
 -----------devices used across different age group---------------
 ---Description: how viewers across different age groups access the platform
 ---Tables used: customers, watch_history
-select device_used, sum(case when age between 19 and 30 then 1 else 0 end) as '19-30',
-sum(case when age between 31 and 45 then 1 else 0 end) as '31-45',
-sum(case when age between 46 and 60 then 1 else 0 end) as '46-60',
-sum(case when age > 60 then 1 else 0 end) as 'above 60'
+select case when age between 19 and 30 then '19-30'
+when age between 31 and 45 then '31-45'
+when age between 46 and 60 then '46-60'
+else '60+' end as age_group, device_used, count(*) as user_count
 from customers as C join  watch_history as W
 on C.customer_id = W.customer_id 
-group by device_used;
+group by age_group, device_used
