@@ -126,4 +126,10 @@ when age between 46 and 60 then '46-60'
 else '60+' end as age_group, device_used, count(*) as user_count
 from customers as C join  watch_history as W
 on C.customer_id = W.customer_id 
-group by age_group, device_used
+group by age_group, device_used;
+
+----------genre popularity by device--------------------
+---Description: which device people while watching different genres
+---Tables used: watch_history, title_genres, genre
+select genre_name, device_used, count(*) as user_count from watch_history as W join title_genres as T on W.title_id = T.title_id join genres as G on T.genre_id = G.genre_id
+group by genre_name, device_used;
