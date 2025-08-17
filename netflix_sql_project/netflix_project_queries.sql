@@ -108,3 +108,11 @@ group by
     C.country, 
     G.genre_name)
     select * from ranked_genres where genre_rank <= 3;
+
+-------------genre rating as per total viewers--------------
+---Description: distribution of rating across each genres
+---Tables used: ratings, title_genres, genres
+select genre_name, rating, count(*) as cnt 
+from(select G.genre_name, R.rating from ratings as R join title_genres as T on R.title_id = T.title_id join genres as G on T.genre_id = G.genre_id) 
+as sub 
+group by genre_name, rating;
