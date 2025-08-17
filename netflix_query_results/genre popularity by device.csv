@@ -1,0 +1,56 @@
+genre_name,device_used,user_count
+Action,Desktop,24821
+Action,Laptop,24659
+Action,Mobile,24624
+Action,"Smart TV",24682
+Action,Tablet,24758
+Adventure,Desktop,25716
+Adventure,Laptop,25731
+Adventure,Mobile,25523
+Adventure,"Smart TV",25851
+Adventure,Tablet,25452
+Comedy,Desktop,24593
+Comedy,Laptop,24283
+Comedy,Mobile,24406
+Comedy,"Smart TV",24646
+Comedy,Tablet,24166
+Crime,Desktop,24610
+Crime,Laptop,24896
+Crime,Mobile,24643
+Crime,"Smart TV",24649
+Crime,Tablet,24752
+Documentary,Desktop,25662
+Documentary,Laptop,25486
+Documentary,Mobile,25607
+Documentary,"Smart TV",25619
+Documentary,Tablet,25515
+Drama,Desktop,24906
+Drama,Laptop,24851
+Drama,Mobile,24843
+Drama,"Smart TV",24935
+Drama,Tablet,24680
+Fantasy,Desktop,24731
+Fantasy,Laptop,24871
+Fantasy,Mobile,24684
+Fantasy,"Smart TV",24525
+Fantasy,Tablet,24687
+Horror,Desktop,25897
+Horror,Laptop,26130
+Horror,Mobile,25876
+Horror,"Smart TV",25770
+Horror,Tablet,25829
+Romance,Desktop,25997
+Romance,Laptop,25822
+Romance,Mobile,25848
+Romance,"Smart TV",26080
+Romance,Tablet,25972
+Sci-Fi,Desktop,24614
+Sci-Fi,Laptop,24680
+Sci-Fi,Mobile,24619
+Sci-Fi,"Smart TV",24788
+Sci-Fi,Tablet,24820
+Thriller,Desktop,25943
+Thriller,Laptop,26069
+Thriller,Mobile,25834
+Thriller,"Smart TV",26223
+Thriller,Tablet,25879
