@@ -116,3 +116,14 @@ select genre_name, rating, count(*) as cnt
 from(select G.genre_name, R.rating from ratings as R join title_genres as T on R.title_id = T.title_id join genres as G on T.genre_id = G.genre_id) 
 as sub 
 group by genre_name, rating;
+
+-----------devices used across different age group---------------
+---Description: how viewers across different age groups access the platform
+---Tables used: customers, watch_history
+select device_used, sum(case when age between 19 and 30 then 1 else 0 end) as '19-30',
+sum(case when age between 31 and 45 then 1 else 0 end) as '31-45',
+sum(case when age between 46 and 60 then 1 else 0 end) as '46-60',
+sum(case when age > 60 then 1 else 0 end) as 'above 60'
+from customers as C join  watch_history as W
+on C.customer_id = W.customer_id 
+group by device_used;
