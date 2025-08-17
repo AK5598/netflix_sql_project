@@ -1,0 +1,730 @@
+country,genre_name,watch_count,genre_rank
+Afghanistan,Romance,630,1
+Afghanistan,Thriller,627,2
+Afghanistan,Adventure,604,3
+Albania,Romance,624,1
+Albania,Thriller,613,2
+Albania,Fantasy,588,3
+Algeria,Adventure,582,1
+Algeria,Romance,574,2
+Algeria,Documentary,568,3
+"American Samoa",Horror,514,1
+"American Samoa",Adventure,507,2
+"American Samoa",Drama,497,3
+Andorra,Sci-Fi,571,1
+Andorra,Thriller,567,2
+Andorra,Horror,564,3
+Angola,Adventure,534,1
+Angola,Thriller,532,2
+Angola,Romance,519,3
+Anguilla,Adventure,477,1
+Anguilla,Thriller,476,2
+Anguilla,Sci-Fi,453,3
+"Antarctica (the territory South of 60 deg S)",Horror,567,1
+"Antarctica (the territory South of 60 deg S)",Adventure,544,2
+"Antarctica (the territory South of 60 deg S)",Crime,541,3
+"Antigua and Barbuda",Sci-Fi,494,1
+"Antigua and Barbuda",Adventure,487,2
+"Antigua and Barbuda",Horror,483,3
+Argentina,Adventure,506,1
+Argentina,Horror,499,2
+Argentina,Drama,487,3
+Armenia,Documentary,619,1
+Armenia,Horror,593,2
+Armenia,Adventure,569,3
+Aruba,Thriller,638,1
+Aruba,Fantasy,619,2
+Aruba,Horror,587,3
+Australia,Drama,606,1
+Australia,Romance,601,2
+Australia,Fantasy,589,3
+Austria,Thriller,619,1
+Austria,Documentary,580,2
+Austria,Sci-Fi,577,3
+Azerbaijan,Thriller,532,1
+Azerbaijan,Horror,528,2
+Azerbaijan,Documentary,505,3
+Bahamas,Adventure,556,1
+Bahamas,Documentary,531,2
+Bahamas,Horror,525,3
+Bahrain,Horror,609,1
+Bahrain,Thriller,599,2
+Bahrain,Romance,598,3
+Bangladesh,Sci-Fi,621,1
+Bangladesh,Horror,604,2
+Bangladesh,Thriller,597,3
+Barbados,Horror,523,1
+Barbados,Adventure,522,2
+Barbados,Documentary,508,3
+Belarus,Crime,512,1
+Belarus,Adventure,499,2
+Belarus,Comedy,498,3
+Belgium,Romance,613,1
+Belgium,Adventure,609,2
+Belgium,Horror,608,3
+Belize,Comedy,501,1
+Belize,Documentary,501,2
+Belize,Romance,501,3
+Benin,Thriller,506,1
+Benin,Romance,500,2
+Benin,Action,499,3
+Bermuda,Adventure,580,1
+Bermuda,Thriller,565,2
+Bermuda,Romance,562,3
+Bhutan,Romance,574,1
+Bhutan,Horror,545,2
+Bhutan,Adventure,539,3
+Bolivia,Documentary,545,1
+Bolivia,Romance,544,2
+Bolivia,Horror,532,3
+"Bosnia and Herzegovina",Sci-Fi,597,1
+"Bosnia and Herzegovina",Romance,590,2
+"Bosnia and Herzegovina",Horror,587,3
+Botswana,Horror,569,1
+Botswana,Action,538,2
+Botswana,Documentary,538,3
+"Bouvet Island (Bouvetoya)",Documentary,559,1
+"Bouvet Island (Bouvetoya)",Romance,559,2
+"Bouvet Island (Bouvetoya)",Sci-Fi,548,3
+Brazil,Horror,592,1
+Brazil,Thriller,584,2
+Brazil,Romance,568,3
+"British Indian Ocean Territory (Chagos Archipelago)",Thriller,538,1
+"British Indian Ocean Territory (Chagos Archipelago)",Documentary,503,2
+"British Indian Ocean Territory (Chagos Archipelago)",Horror,492,3
+"British Virgin Islands",Comedy,589,1
+"British Virgin Islands",Documentary,558,2
+"British Virgin Islands",Romance,548,3
+"Brunei Darussalam",Romance,478,1
+"Brunei Darussalam",Thriller,473,2
+"Brunei Darussalam",Drama,472,3
+Bulgaria,Documentary,559,1
+Bulgaria,Horror,557,2
+Bulgaria,Adventure,550,3
+"Burkina Faso",Adventure,584,1
+"Burkina Faso",Documentary,580,2
+"Burkina Faso",Thriller,534,3
+Burundi,Thriller,596,1
+Burundi,Romance,591,2
+Burundi,Horror,589,3
+Cambodia,Horror,618,1
+Cambodia,Romance,579,2
+Cambodia,Thriller,572,3
+Cameroon,Horror,604,1
+Cameroon,Thriller,592,2
+Cameroon,Fantasy,580,3
+Canada,Adventure,607,1
+Canada,Thriller,595,2
+Canada,Horror,595,3
+"Cape Verde",Thriller,585,1
+"Cape Verde",Drama,578,2
+"Cape Verde",Horror,575,3
+"Cayman Islands",Thriller,549,1
+"Cayman Islands",Romance,536,2
+"Cayman Islands",Documentary,531,3
+"Central African Republic",Thriller,625,1
+"Central African Republic",Horror,615,2
+"Central African Republic",Adventure,610,3
+Chad,Thriller,547,1
+Chad,Documentary,541,2
+Chad,Adventure,540,3
+Chile,Adventure,542,1
+Chile,Romance,515,2
+Chile,Documentary,501,3
+China,Documentary,516,1
+China,Thriller,515,2
+China,Fantasy,511,3
+"Christmas Island",Thriller,545,1
+"Christmas Island",Romance,545,2
+"Christmas Island",Horror,519,3
+"Cocos (Keeling) Islands",Romance,603,1
+"Cocos (Keeling) Islands",Documentary,574,2
+"Cocos (Keeling) Islands",Adventure,571,3
+Colombia,Romance,591,1
+Colombia,Fantasy,587,2
+Colombia,Drama,581,3
+Comoros,Documentary,489,1
+Comoros,Romance,479,2
+Comoros,Thriller,458,3
+Congo,Horror,1052,1
+Congo,Adventure,1034,2
+Congo,Romance,1013,3
+"Cook Islands",Romance,525,1
+"Cook Islands",Sci-Fi,497,2
+"Cook Islands",Adventure,496,3
+"Costa Rica",Horror,572,1
+"Costa Rica",Thriller,566,2
+"Costa Rica",Adventure,559,3
+"Cote d'Ivoire",Horror,544,1
+"Cote d'Ivoire",Thriller,528,2
+"Cote d'Ivoire",Crime,504,3
+Croatia,Thriller,597,1
+Croatia,Adventure,549,2
+Croatia,Drama,539,3
+Cuba,Adventure,469,1
+Cuba,Horror,467,2
+Cuba,Drama,443,3
+Cyprus,Documentary,563,1
+Cyprus,Thriller,562,2
+Cyprus,Romance,549,3
+"Czech Republic",Romance,544,1
+"Czech Republic",Documentary,537,2
+"Czech Republic",Sci-Fi,518,3
+Denmark,Romance,538,1
+Denmark,Documentary,523,2
+Denmark,Sci-Fi,513,3
+Djibouti,Romance,544,1
+Djibouti,Drama,540,2
+Djibouti,Thriller,532,3
+Dominica,Romance,608,1
+Dominica,Adventure,594,2
+Dominica,Thriller,590,3
+"Dominican Republic",Horror,488,1
+"Dominican Republic",Adventure,482,2
+"Dominican Republic",Romance,480,3
+Ecuador,Thriller,538,1
+Ecuador,Adventure,512,2
+Ecuador,Horror,506,3
+Egypt,Action,602,1
+Egypt,Thriller,597,2
+Egypt,Romance,571,3
+"El Salvador",Documentary,513,1
+"El Salvador",Fantasy,510,2
+"El Salvador",Horror,509,3
+"Equatorial Guinea",Romance,640,1
+"Equatorial Guinea",Horror,633,2
+"Equatorial Guinea",Adventure,622,3
+Eritrea,Thriller,592,1
+Eritrea,Fantasy,578,2
+Eritrea,Adventure,577,3
+Estonia,Romance,554,1
+Estonia,Thriller,552,2
+Estonia,Horror,542,3
+Ethiopia,Documentary,603,1
+Ethiopia,Romance,583,2
+Ethiopia,Adventure,550,3
+"Falkland Islands (Malvinas)",Romance,526,1
+"Falkland Islands (Malvinas)",Fantasy,519,2
+"Falkland Islands (Malvinas)",Thriller,514,3
+"Faroe Islands",Horror,627,1
+"Faroe Islands",Romance,615,2
+"Faroe Islands",Thriller,612,3
+Fiji,Adventure,530,1
+Fiji,Romance,529,2
+Fiji,Thriller,521,3
+Finland,Documentary,568,1
+Finland,Thriller,554,2
+Finland,Romance,550,3
+France,Documentary,510,1
+France,Romance,473,2
+France,Adventure,463,3
+"French Guiana",Documentary,593,1
+"French Guiana",Crime,589,2
+"French Guiana",Romance,589,3
+"French Polynesia",Horror,573,1
+"French Polynesia",Thriller,541,2
+"French Polynesia",Adventure,539,3
+"French Southern Territories",Thriller,568,1
+"French Southern Territories",Horror,550,2
+"French Southern Territories",Documentary,531,3
+Gabon,Drama,530,1
+Gabon,Horror,526,2
+Gabon,Romance,524,3
+Gambia,Thriller,668,1
+Gambia,Romance,627,2
+Gambia,Horror,609,3
+Georgia,Romance,563,1
+Georgia,Documentary,547,2
+Georgia,Thriller,543,3
+Germany,Adventure,548,1
+Germany,Horror,545,2
+Germany,Crime,516,3
+Ghana,Horror,640,1
+Ghana,Romance,634,2
+Ghana,Sci-Fi,624,3
+Gibraltar,Thriller,517,1
+Gibraltar,Comedy,502,2
+Gibraltar,Adventure,496,3
+Greece,Drama,520,1
+Greece,Adventure,518,2
+Greece,Crime,496,3
+Greenland,Romance,613,1
+Greenland,Documentary,610,2
+Greenland,Horror,580,3
+Grenada,Fantasy,559,1
+Grenada,Adventure,555,2
+Grenada,Romance,552,3
+Guadeloupe,Thriller,504,1
+Guadeloupe,Horror,493,2
+Guadeloupe,Fantasy,488,3
+Guam,Horror,559,1
+Guam,Romance,552,2
+Guam,Thriller,547,3
+Guatemala,Thriller,517,1
+Guatemala,Adventure,515,2
+Guatemala,Action,471,3
+Guernsey,Sci-Fi,475,1
+Guernsey,Documentary,462,2
+Guernsey,Romance,460,3
+Guinea,Horror,503,1
+Guinea,Adventure,496,2
+Guinea,Action,472,3
+Guinea-Bissau,Horror,574,1
+Guinea-Bissau,Thriller,567,2
+Guinea-Bissau,Fantasy,565,3
+Guyana,Romance,530,1
+Guyana,Thriller,505,2
+Guyana,Fantasy,496,3
+Haiti,Thriller,558,1
+Haiti,Horror,557,2
+Haiti,Sci-Fi,527,3
+"Heard Island and McDonald Islands",Documentary,493,1
+"Heard Island and McDonald Islands",Horror,474,2
+"Heard Island and McDonald Islands",Adventure,467,3
+"Holy See (Vatican City State)",Documentary,586,1
+"Holy See (Vatican City State)",Horror,561,2
+"Holy See (Vatican City State)",Sci-Fi,550,3
+Honduras,Documentary,570,1
+Honduras,Thriller,559,2
+Honduras,Horror,539,3
+"Hong Kong",Horror,638,1
+"Hong Kong",Fantasy,629,2
+"Hong Kong",Adventure,627,3
+Hungary,Horror,549,1
+Hungary,Adventure,544,2
+Hungary,Romance,542,3
+Iceland,Romance,566,1
+Iceland,Documentary,537,2
+Iceland,Action,534,3
+India,Thriller,556,1
+India,Horror,549,2
+India,Romance,534,3
+Indonesia,Romance,574,1
+Indonesia,Thriller,568,2
+Indonesia,Adventure,558,3
+Iran,Documentary,501,1
+Iran,Thriller,498,2
+Iran,Action,471,3
+Iraq,Romance,615,1
+Iraq,Thriller,611,2
+Iraq,Crime,599,3
+Ireland,Romance,620,1
+Ireland,Action,598,2
+Ireland,Documentary,594,3
+"Isle of Man",Thriller,578,1
+"Isle of Man",Horror,576,2
+"Isle of Man",Fantasy,567,3
+Israel,Romance,513,1
+Israel,Documentary,504,2
+Israel,Crime,489,3
+Italy,Fantasy,543,1
+Italy,Comedy,541,2
+Italy,Action,530,3
+Jamaica,Adventure,520,1
+Jamaica,Horror,515,2
+Jamaica,Romance,512,3
+Japan,Crime,561,1
+Japan,Horror,554,2
+Japan,Thriller,553,3
+Jersey,Comedy,470,1
+Jersey,Fantasy,469,2
+Jersey,Sci-Fi,464,3
+Jordan,Romance,581,1
+Jordan,Adventure,568,2
+Jordan,Horror,566,3
+Kazakhstan,Documentary,512,1
+Kazakhstan,Adventure,511,2
+Kazakhstan,Romance,507,3
+Kenya,Crime,547,1
+Kenya,Thriller,535,2
+Kenya,Comedy,516,3
+Kiribati,Horror,530,1
+Kiribati,Fantasy,507,2
+Kiribati,Documentary,503,3
+Korea,Documentary,1026,1
+Korea,Horror,1005,2
+Korea,Thriller,995,3
+Kuwait,Documentary,555,1
+Kuwait,Fantasy,546,2
+Kuwait,Adventure,542,3
+"Kyrgyz Republic",Romance,564,1
+"Kyrgyz Republic",Adventure,547,2
+"Kyrgyz Republic",Documentary,532,3
+"Lao People's Democratic Republic",Thriller,602,1
+"Lao People's Democratic Republic",Romance,583,2
+"Lao People's Democratic Republic",Adventure,557,3
+Latvia,Thriller,566,1
+Latvia,Romance,561,2
+Latvia,Sci-Fi,542,3
+Lebanon,Horror,525,1
+Lebanon,Romance,499,2
+Lebanon,Documentary,490,3
+Lesotho,Thriller,518,1
+Lesotho,Adventure,510,2
+Lesotho,Horror,504,3
+Liberia,Thriller,546,1
+Liberia,Drama,543,2
+Liberia,Action,531,3
+"Libyan Arab Jamahiriya",Drama,571,1
+"Libyan Arab Jamahiriya",Romance,570,2
+"Libyan Arab Jamahiriya",Thriller,559,3
+Liechtenstein,Documentary,517,1
+Liechtenstein,Crime,516,2
+Liechtenstein,Romance,516,3
+Lithuania,Thriller,532,1
+Lithuania,Adventure,529,2
+Lithuania,Drama,523,3
+Luxembourg,Romance,600,1
+Luxembourg,Action,577,2
+Luxembourg,Crime,571,3
+Macao,Horror,597,1
+Macao,Fantasy,588,2
+Macao,Action,562,3
+Madagascar,Horror,533,1
+Madagascar,Adventure,529,2
+Madagascar,Documentary,528,3
+Malawi,Thriller,502,1
+Malawi,Sci-Fi,501,2
+Malawi,Adventure,485,3
+Malaysia,Romance,454,1
+Malaysia,Thriller,451,2
+Malaysia,Fantasy,445,3
+Maldives,Action,512,1
+Maldives,Documentary,488,2
+Maldives,Romance,485,3
+Mali,Adventure,527,1
+Mali,Romance,516,2
+Mali,Documentary,498,3
+Malta,Documentary,516,1
+Malta,Drama,484,2
+Malta,Horror,481,3
+"Marshall Islands",Adventure,545,1
+"Marshall Islands",Action,518,2
+"Marshall Islands",Fantasy,518,3
+Martinique,Documentary,538,1
+Martinique,Adventure,534,2
+Martinique,Romance,504,3
+Mauritania,Documentary,611,1
+Mauritania,Horror,604,2
+Mauritania,Romance,588,3
+Mauritius,Romance,542,1
+Mauritius,Action,537,2
+Mauritius,Horror,537,3
+Mayotte,Adventure,566,1
+Mayotte,Romance,539,2
+Mayotte,Thriller,536,3
+Mexico,Thriller,549,1
+Mexico,Adventure,524,2
+Mexico,Comedy,516,3
+Micronesia,Documentary,507,1
+Micronesia,Action,481,2
+Micronesia,Adventure,481,3
+Moldova,Adventure,530,1
+Moldova,Horror,514,2
+Moldova,Documentary,506,3
+Monaco,Documentary,590,1
+Monaco,Horror,564,2
+Monaco,Romance,551,3
+Mongolia,Thriller,572,1
+Mongolia,Horror,553,2
+Mongolia,Drama,521,3
+Montenegro,Adventure,538,1
+Montenegro,Horror,534,2
+Montenegro,Romance,532,3
+Montserrat,Adventure,469,1
+Montserrat,Thriller,467,2
+Montserrat,Documentary,458,3
+Morocco,Horror,541,1
+Morocco,Romance,535,2
+Morocco,Thriller,529,3
+Mozambique,Horror,588,1
+Mozambique,Documentary,584,2
+Mozambique,Drama,579,3
+Myanmar,Documentary,548,1
+Myanmar,Horror,537,2
+Myanmar,Sci-Fi,528,3
+Namibia,Romance,553,1
+Namibia,Thriller,542,2
+Namibia,Horror,528,3
+Nauru,Horror,613,1
+Nauru,Adventure,613,2
+Nauru,Thriller,605,3
+Nepal,Documentary,596,1
+Nepal,Adventure,584,2
+Nepal,Crime,581,3
+Netherlands,Romance,544,1
+Netherlands,Adventure,530,2
+Netherlands,Drama,522,3
+"Netherlands Antilles",Adventure,598,1
+"Netherlands Antilles",Crime,581,2
+"Netherlands Antilles",Horror,575,3
+"New Caledonia",Crime,559,1
+"New Caledonia",Documentary,548,2
+"New Caledonia",Drama,536,3
+"New Zealand",Crime,534,1
+"New Zealand",Drama,516,2
+"New Zealand",Thriller,498,3
+Nicaragua,Romance,525,1
+Nicaragua,Horror,502,2
+Nicaragua,Adventure,498,3
+Niger,Documentary,529,1
+Niger,Romance,506,2
+Niger,Drama,505,3
+Nigeria,Drama,510,1
+Nigeria,Crime,506,2
+Nigeria,Documentary,493,3
+Niue,Adventure,567,1
+Niue,Thriller,549,2
+Niue,Crime,542,3
+"Norfolk Island",Adventure,489,1
+"Norfolk Island",Thriller,487,2
+"Norfolk Island",Horror,480,3
+"North Macedonia",Documentary,559,1
+"North Macedonia",Thriller,539,2
+"North Macedonia",Action,524,3
+"Northern Mariana Islands",Documentary,603,1
+"Northern Mariana Islands",Horror,587,2
+"Northern Mariana Islands",Drama,583,3
+Norway,Thriller,590,1
+Norway,Romance,587,2
+Norway,Action,542,3
+Oman,Drama,621,1
+Oman,Horror,615,2
+Oman,Romance,604,3
+Pakistan,Documentary,539,1
+Pakistan,Crime,534,2
+Pakistan,Horror,531,3
+Palau,Adventure,617,1
+Palau,Romance,612,2
+Palau,Thriller,609,3
+"Palestinian Territory",Crime,473,1
+"Palestinian Territory",Adventure,461,2
+"Palestinian Territory",Horror,459,3
+Panama,Documentary,462,1
+Panama,Horror,455,2
+Panama,Thriller,450,3
+"Papua New Guinea",Thriller,575,1
+"Papua New Guinea",Adventure,569,2
+"Papua New Guinea",Horror,556,3
+Paraguay,Romance,606,1
+Paraguay,Documentary,591,2
+Paraguay,Thriller,589,3
+Peru,Horror,629,1
+Peru,Romance,612,2
+Peru,Thriller,607,3
+Philippines,Romance,540,1
+Philippines,Thriller,538,2
+Philippines,Adventure,536,3
+"Pitcairn Islands",Thriller,520,1
+"Pitcairn Islands",Crime,513,2
+"Pitcairn Islands",Adventure,503,3
+Poland,Romance,557,1
+Poland,Thriller,549,2
+Poland,Comedy,547,3
+Portugal,Documentary,561,1
+Portugal,Thriller,528,2
+Portugal,Romance,527,3
+"Puerto Rico",Thriller,501,1
+"Puerto Rico",Action,482,2
+"Puerto Rico",Horror,477,3
+Qatar,Adventure,574,1
+Qatar,Thriller,548,2
+Qatar,Documentary,543,3
+Reunion,Documentary,537,1
+Reunion,Horror,533,2
+Reunion,Comedy,526,3
+Romania,Thriller,492,1
+Romania,Sci-Fi,488,2
+Romania,Romance,481,3
+"Russian Federation",Crime,529,1
+"Russian Federation",Thriller,520,2
+"Russian Federation",Adventure,519,3
+Rwanda,Documentary,575,1
+Rwanda,Horror,574,2
+Rwanda,Romance,571,3
+"Saint Barthelemy",Romance,570,1
+"Saint Barthelemy",Sci-Fi,562,2
+"Saint Barthelemy",Crime,551,3
+"Saint Helena",Comedy,508,1
+"Saint Helena",Horror,489,2
+"Saint Helena",Adventure,487,3
+"Saint Kitts and Nevis",Thriller,531,1
+"Saint Kitts and Nevis",Crime,524,2
+"Saint Kitts and Nevis",Documentary,518,3
+"Saint Lucia",Crime,512,1
+"Saint Lucia",Horror,509,2
+"Saint Lucia",Romance,503,3
+"Saint Martin",Horror,524,1
+"Saint Martin",Romance,490,2
+"Saint Martin",Sci-Fi,489,3
+"Saint Pierre and Miquelon",Thriller,573,1
+"Saint Pierre and Miquelon",Fantasy,546,2
+"Saint Pierre and Miquelon",Adventure,536,3
+"Saint Vincent and the Grenadines",Horror,498,1
+"Saint Vincent and the Grenadines",Thriller,494,2
+"Saint Vincent and the Grenadines",Action,493,3
+Samoa,Crime,654,1
+Samoa,Thriller,650,2
+Samoa,Action,613,3
+"San Marino",Documentary,528,1
+"San Marino",Crime,524,2
+"San Marino",Adventure,521,3
+"Sao Tome and Principe",Horror,590,1
+"Sao Tome and Principe",Thriller,588,2
+"Sao Tome and Principe",Documentary,587,3
+"Saudi Arabia",Horror,540,1
+"Saudi Arabia",Thriller,538,2
+"Saudi Arabia",Drama,529,3
+Senegal,Drama,467,1
+Senegal,Horror,466,2
+Senegal,Adventure,446,3
+Serbia,Horror,549,1
+Serbia,Action,534,2
+Serbia,Romance,508,3
+Seychelles,Crime,563,1
+Seychelles,Romance,534,2
+Seychelles,Thriller,502,3
+"Sierra Leone",Horror,581,1
+"Sierra Leone",Fantasy,578,2
+"Sierra Leone",Thriller,566,3
+Singapore,Romance,608,1
+Singapore,Thriller,607,2
+Singapore,Horror,597,3
+"Slovakia (Slovak Republic)",Thriller,570,1
+"Slovakia (Slovak Republic)",Adventure,556,2
+"Slovakia (Slovak Republic)",Action,548,3
+Slovenia,Crime,522,1
+Slovenia,Horror,514,2
+Slovenia,Romance,503,3
+"Solomon Islands",Thriller,580,1
+"Solomon Islands",Romance,569,2
+"Solomon Islands",Horror,565,3
+Somalia,Horror,586,1
+Somalia,Thriller,565,2
+Somalia,Comedy,555,3
+"South Africa",Romance,585,1
+"South Africa",Action,581,2
+"South Africa",Adventure,575,3
+"South Georgia and the South Sandwich Islands",Romance,557,1
+"South Georgia and the South Sandwich Islands",Thriller,540,2
+"South Georgia and the South Sandwich Islands",Sci-Fi,527,3
+Spain,Adventure,500,1
+Spain,Horror,495,2
+Spain,Thriller,495,3
+"Sri Lanka",Thriller,559,1
+"Sri Lanka",Horror,553,2
+"Sri Lanka",Crime,545,3
+Sudan,Horror,544,1
+Sudan,Thriller,544,2
+Sudan,Action,540,3
+Suriname,Romance,589,1
+Suriname,Adventure,588,2
+Suriname,Horror,586,3
+"Svalbard & Jan Mayen Islands",Adventure,568,1
+"Svalbard & Jan Mayen Islands",Horror,559,2
+"Svalbard & Jan Mayen Islands",Documentary,546,3
+Swaziland,Romance,547,1
+Swaziland,Horror,544,2
+Swaziland,Thriller,516,3
+Sweden,Romance,529,1
+Sweden,Adventure,517,2
+Sweden,Action,515,3
+Switzerland,Romance,562,1
+Switzerland,Thriller,558,2
+Switzerland,Adventure,546,3
+"Syrian Arab Republic",Thriller,559,1
+"Syrian Arab Republic",Crime,532,2
+"Syrian Arab Republic",Drama,526,3
+Taiwan,Horror,530,1
+Taiwan,Romance,521,2
+Taiwan,Crime,514,3
+Tajikistan,Action,544,1
+Tajikistan,Horror,540,2
+Tajikistan,Romance,539,3
+Tanzania,Romance,580,1
+Tanzania,Horror,546,2
+Tanzania,Documentary,539,3
+Thailand,Romance,517,1
+Thailand,Thriller,514,2
+Thailand,Documentary,509,3
+Timor-Leste,Adventure,541,1
+Timor-Leste,Horror,533,2
+Timor-Leste,Documentary,524,3
+Togo,Thriller,592,1
+Togo,Horror,585,2
+Togo,Crime,583,3
+Tokelau,Romance,550,1
+Tokelau,Documentary,545,2
+Tokelau,Horror,543,3
+Tonga,Adventure,525,1
+Tonga,Horror,519,2
+Tonga,Documentary,516,3
+"Trinidad and Tobago",Documentary,540,1
+"Trinidad and Tobago",Adventure,536,2
+"Trinidad and Tobago",Horror,534,3
+Tunisia,Romance,538,1
+Tunisia,Documentary,516,2
+Tunisia,Sci-Fi,510,3
+Turkey,Thriller,542,1
+Turkey,Horror,509,2
+Turkey,Sci-Fi,505,3
+Turkmenistan,Thriller,474,1
+Turkmenistan,Adventure,458,2
+Turkmenistan,Horror,457,3
+"Turks and Caicos Islands",Thriller,486,1
+"Turks and Caicos Islands",Sci-Fi,474,2
+"Turks and Caicos Islands",Romance,467,3
+Tuvalu,Horror,592,1
+Tuvalu,Adventure,573,2
+Tuvalu,Documentary,572,3
+Uganda,Romance,563,1
+Uganda,Adventure,558,2
+Uganda,Horror,540,3
+Ukraine,Documentary,489,1
+Ukraine,Comedy,481,2
+Ukraine,Thriller,480,3
+"United Arab Emirates",Drama,528,1
+"United Arab Emirates",Adventure,505,2
+"United Arab Emirates",Thriller,505,3
+"United Kingdom",Horror,538,1
+"United Kingdom",Thriller,529,2
+"United Kingdom",Adventure,525,3
+"United States Minor Outlying Islands",Documentary,550,1
+"United States Minor Outlying Islands",Fantasy,538,2
+"United States Minor Outlying Islands",Horror,531,3
+"United States of America",Drama,513,1
+"United States of America",Adventure,507,2
+"United States of America",Thriller,503,3
+"United States Virgin Islands",Thriller,604,1
+"United States Virgin Islands",Adventure,594,2
+"United States Virgin Islands",Drama,567,3
+Uruguay,Romance,582,1
+Uruguay,Thriller,568,2
+Uruguay,Horror,526,3
+Uzbekistan,Thriller,522,1
+Uzbekistan,Documentary,512,2
+Uzbekistan,Horror,500,3
+Vanuatu,Horror,499,1
+Vanuatu,Drama,495,2
+Vanuatu,Thriller,494,3
+Venezuela,Adventure,592,1
+Venezuela,Romance,569,2
+Venezuela,Thriller,567,3
+Vietnam,Horror,517,1
+Vietnam,Documentary,515,2
+Vietnam,Romance,514,3
+"Wallis and Futuna",Adventure,580,1
+"Wallis and Futuna",Drama,543,2
+"Wallis and Futuna",Thriller,542,3
+"Western Sahara",Adventure,559,1
+"Western Sahara",Sci-Fi,543,2
+"Western Sahara",Romance,527,3
+Yemen,Horror,584,1
+Yemen,Adventure,533,2
+Yemen,Thriller,529,3
+Zambia,Thriller,496,1
+Zambia,Romance,494,2
+Zambia,Comedy,492,3
+Zimbabwe,Adventure,515,1
+Zimbabwe,Crime,515,2
+Zimbabwe,Thriller,509,3
